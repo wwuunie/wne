@@ -1,10 +1,10 @@
 {
     "update": {
-        "content": "register",
-        "version": 7
+        "content": "适配新版本",
+        "version": 8
     },
     "notice": {
-        "content": "无"
+        "content": "啊吧 啊吧！"
     },
     "enable": true
 }
