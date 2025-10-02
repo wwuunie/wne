@@ -1,10 +1,10 @@
 {
-    "update": {
-        "content": "详细见群通知",
-        "version": 10
-    },
-    "notice": {
-        "content": "啊吧 啊吧！"
-    },
-    "enable": true
+  "update": {
+    "content": "详细见群通知 我懒得写了QAQ",
+    "version": 11
+  },
+  "notice": {
+    "content": "啊吧 啊吧！"
+  },
+  "enable": true
 }
