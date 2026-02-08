@@ -10,7 +10,7 @@
   "notice": {
     "content": "这似乎是一个云公告 https://t.me/SDUMYY"
   },
-  "is_screen_control": true,
+  "is_screen_control": false,
   "is_screen_recording": true,
   "enable": true
 }
